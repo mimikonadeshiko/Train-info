@@ -1,0 +1,52 @@
+{
+    "route_name": "はやぶさ17号 行路",
+    "train_code": "3017B",
+    "train_name": "はやぶさ17号",
+    "car_count": 10,
+    "max_speed": 320,
+    "stops": [
+        {
+            "station": "東京",
+            "arrival": null,
+            "departure": "10:18",
+            "platform": 23
+        },
+        {
+            "station": "上野",
+            "arrival": "10:23",
+            "departure": "10:24",
+            "platform": 20
+        },
+        {
+            "station": "大宮",
+            "arrival": "10:42",
+            "departure": "10:43",
+            "platform": 17
+        },
+        {
+            "station": "仙台",
+            "arrival": "11:52",
+            "departure": "11:54",
+            "platform": 12
+        },
+        {
+            "station": "盛岡",
+            "arrival": "12:32",
+            "departure": "12:37",
+            "platform": 14
+        },
+        {
+            "station": "八戸",
+            "arrival": "13:04",
+            "departure": "13:06",
+            "platform": 13
+        },
+        {
+            "station": "新青森",
+            "arrival": "13:29",
+            "departure": null,
+            "platform": 12
+        }
+    ],
+    "isOperating": true
+}
