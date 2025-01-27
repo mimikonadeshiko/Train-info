@@ -1,0 +1,71 @@
+{
+    "route_name": "あずさ21号 行路",
+    "execution_date": "2024年3月21日",
+    "train_code": "21M",
+    "train_name": "あずさ21号",
+    "car_count": 12,
+    "max_speed": 120,
+    "stops": [
+        {
+            "station": "新宿",
+            "arrival": null,
+            "departure": "12:00",
+            "pratform": 10
+        },
+        {
+            "station": "立川",
+            "arrival": "12:21",
+            "departure": "12:22",
+            "pratform": 6
+        },
+        {
+            "station": "八王子",
+            "arrival": "12:30",
+            "departure": "12:31",
+            "pratform": 4
+        },
+        {
+            "station": "甲府",
+            "arrival": "13:27",
+            "departure": "13:28",
+            "pratform": 1
+        },
+        {
+            "station": "小淵沢",
+            "arrival": "13:51",
+            "departure": "13:51",
+            "pratform": 1
+        },
+        {
+            "station": "茅野",
+            "arrival": "14:05",
+            "departure": "14:05",
+            "pratform": null
+        },
+        {
+            "station": "上諏訪",
+            "arrival": "14:10",
+            "departure": "14:11",
+            "pratform": null
+        },
+        {
+            "station": "岡谷",
+            "arrival": "14:18",
+            "departure": "14:18",
+            "pratform": null
+        },
+        {
+            "station": "塩尻",
+            "arrival": "14:25",
+            "departure": "14:26",
+            "pratform": null
+        },
+        {
+            "station": "松本",
+            "arrival": "14:35",
+            "departure": null,
+            "pratform": 2
+        }
+    ],
+    "isOperating": false
+}
