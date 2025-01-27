@@ -1,5 +1,6 @@
 {
     "route_name": "はやぶさ17号 行路",
+    "execution_date": "2024年3月21日",
     "train_code": "3017B",
     "train_name": "はやぶさ17号",
     "car_count": 10,
